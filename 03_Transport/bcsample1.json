@@ -1,0 +1,13 @@
+[
+  {
+    "EVENT_NO_TRIP": "221895413",
+    "EVENT_NO_STOP": "221895430",
+    "OPD_DATE": "12-Dec-22",
+    "VEHICLE_ID": "4052",
+    "METERS": "70152",
+    "ACT_TIME": "44642",
+    "VELOCITY": "-122.60567",
+    "DIRECTION": "45.448033",
+    "RADIO_QUALITY": "12.0",
+    "GPS_LONGITUDE": "0.6"
+  }]
